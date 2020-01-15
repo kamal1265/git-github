@@ -1,3 +1,6 @@
 Hi ,
 
 We are on devops training
+
+Thanks,
+Kamal
